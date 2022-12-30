@@ -1,4 +1,4 @@
-x = 6.54
+# x = 6.54
 
 # print(type(x)) # veri tipinin ne olduğunu söyler
 
@@ -20,3 +20,12 @@ x = 6.54
 
 # print(max(1,5,9,8,88)) #maximum değeri yazar
 
+# number_1="24"
+
+# number_2="41"
+
+# print(int(number_1)+int(number_2)) # casting yapıldı
+
+# age = 34
+
+# print("Ben "+ str(age) +" yaşındayım" *4) # casting işlemi yapıldı ve verilen ifadeyi 4 kez yazdırdı
