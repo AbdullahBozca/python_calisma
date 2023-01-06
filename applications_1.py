@@ -10,7 +10,7 @@ print("Cevre= "+ str(round(2*pi*r)))
 
 """
 """
-# Girilen ismi büyük harfle yazdırma
+# Girilen ismi buyuk harfle yazdirma
 
 isim= input("İsminizi giriniz: ")
 

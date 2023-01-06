@@ -1,4 +1,4 @@
-cities=["denizli","manisa","aydın","mugla","afyon"]
+cities=["denizli","manisa","aydin","mugla","afyon"]
 
 #print(cities)
 
@@ -14,7 +14,7 @@ cities=["denizli","manisa","aydın","mugla","afyon"]
 
 
 """
-cities[4]="kütahya" # index numarasıyla değişiklik yapıldı
+cities[4]="kütahya" # index numarasiyla degisiklik yapildi
 
 print(cities)
 
@@ -22,18 +22,18 @@ cities.append("ayfon") # list e yeni eleman ekleme
 
 print(cities)
 
-cities.insert(0,"balıkesir") # 0. indexe balıkesir eklendi
+cities.insert(0,"balikesir") # 0. indexe balikesir eklendi
 """
 """
 print(cities)
 
-del cities[0] # 0. index teki elemanı siler geri gelmez
+del cities[0] # 0. index teki elemani siler geri gelmez
 
 print(cities)
 
 """
 """
-cities_2=cities.pop() # pop ile silinen elemana ulaşabiliriz
+cities_2=cities.pop() # pop ile silinen elemana ulasabiliriz
 
 print(cities)
 
@@ -50,19 +50,19 @@ print(cities)
 """
 print(cities)
 
-print(sorted(cities)) # sorted sadece bu satırda çalışıp listte değişiklik yapmaz
+print(sorted(cities)) # sorted sadece bu satirda çalisip listte degisiklik yapmaz
 
 cities.sort() # alfabetik siralama yapar
 
 print(cities)
 
-cities.sort(reverse=True) # ters sıralama
+cities.sort(reverse=True) # ters siralama
 
 print(cities)
 
 """
 
-#print("ankara" in cities) # cities listinde ankara değeri var mı yok mu?
+#print("ankara" in cities) # cities listinde ankara degeri var mi yok mu?
 
 for city in cities:
-    print(city) # print in içerde başlamasının sebebi bu satırın for loop bloğunda olduğunu gösterir
+    print(city) # print in icerde baslamasinin sebebi bu satirin for loop blogunda oldugunu gosterir

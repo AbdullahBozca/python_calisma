@@ -1,31 +1,31 @@
 # x = 6.54
 
-# print(type(x)) # veri tipinin ne olduğunu söyler
+# print(type(x)) # veri tipinin ne oldugunu soyler
 
-# print(x//3) # sadece tam sayı kısmını alır
+# print(x//3) # sadece tam sayi kismini alir
 
 # print(x**3) # üssü alma işlemi yapar
 
-# print(x%3) # sayını 3 e bölümünden kalanı verir
+# print(x%3) # sayını 3 e bolumunden kalani verir
 
-# print(abs(x)) # mutlak değer işlemi yapar
+# print(abs(x)) # mutlak deger islemi yapar
 
-# print(round(x)) # yuvarlama işlemi yapar
+# print(round(x)) # yuvarlama islemi yapar
  
-# print(round(x,1)) # virgülden sonra 1 basamağı yuvarlar
+# print(round(x,1)) # virgulden sonra 1 basamagi yuvarlar
 
-# print(pow(3,2)) # 3 ün 2. kuvvetini alır
+# print(pow(3,2)) # 3 ün 2. kuvvetini alir
 
-# print(min(1,5,9,8,88)) # minimum değeri yazar
+# print(min(1,5,9,8,88)) # minimum degeri yazar
 
-# print(max(1,5,9,8,88)) #maximum değeri yazar
+# print(max(1,5,9,8,88)) #maximum degeri yazar
 
 # number_1="24"
 
 # number_2="41"
 
-# print(int(number_1)+int(number_2)) # casting yapıldı
+# print(int(number_1)+int(number_2)) # casting yapildi
 
 # age = 34
 
-# print("Ben "+ str(age) +" yaşındayım" *4) # casting işlemi yapıldı ve verilen ifadeyi 4 kez yazdırdı
+# print("Ben "+ str(age) +" yasindayim" *4) # casting islemi yapildi ve verilen ifadeyi 4 kez yazdirdi
